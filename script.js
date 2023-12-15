@@ -16,7 +16,7 @@ console.log(verificarIdade(5));
 console.log(verificarIdade(10));
 console.log(verificarIdade(20));
 
-
+//  switch //
 
 // 1 - Cadastrar
 // 2 - Listar
